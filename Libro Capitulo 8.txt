@@ -1,0 +1,499 @@
+﻿CHAPTER GOALS
+1. Understand when to use illustrations
+2. Understand what constitutes a helpful illustration
+3. Know how to cite a referenced illustration in the text
+4. Know how to write a proper caption
+
+
+AN ILLUSTRATION is a graphic or an image that conveys information
+or a message. There are basically three categories of illustrations used in
+technical documents:
+• Photographs from digital recordings or silver-halide film
+• Line art such as graphs, charts, or drawings
+• Tables with numbers or words organized by row and column
+Illustrations usually make a document more interesting, and they help clarify content by reducing words and enhancing the transfer, presentation, and
+interpretation of information. They help the author meet his or her objective, whatever it may be.
+This Chapter describes various types of illustrations and how to properly
+use them. The overall objective of the Chapter is to gain an understanding of
+successful illustrations in technical documents. The Chapter discusses reasons
+for using illustrations, how to prepare various types of illustrations, how to
+write captions, and how to place and cite illustrations in a technical document.
+
+
+8.1 Reasons for Using Illustrations
+The answer to the question, “When should I use an illustration?” is best answered by explaining the benefits and functions of illustrations. Illustrations should be considered in every technical document to clarify points, help interpret information, and make the document more interesting and easy to
+read. In other words, try to use them effectively in all technical documents.
+Interest. Illustrations increase interest and readability by giving readers
+a visual break. An uninterrupted page of words can be boring. Newspapers
+and magazines are full of illustrations. They create visual interest, and often photos are used to lure readers to particular pieces. The opposite extreme is a legal document like an insurance policy, which contains only
+words (and often long complex sentences). Which type of document do you
+like to read? Most people prefer a document with some photos, graphs, or
+other illustrations.
+An author can use illustrations to increase visual appeal. A verbal description of a machine can be made more interesting with a good photo of
+the overall machine. [It is standard practice in my lab to include a schematic
+or photo of test rigs used in studies. In fact, now that we have two digital
+cameras, this type of illustration is easier to do than ever before.]
+Another way to increase interest is use photos with people in them. A
+photo of equipment with an operator is more interesting than just a photo
+of machinery. People in photos give a sense of action and scale. They help
+animate photos of equipment and machinery, and this works for any type
+of document. However, be sure to get permission to use a person’s photo
+in a document.
+Clarification/Simplification. The classic use of an illustration is to clarify the assembly of a device or appliance. If you have ever bought a tool,
+or piece of furniture with “some assembly required,” you recognize the benefit of an assembly drawing. Directions of any sort can usually benefit from
+an illustration.
+Numerical data and calculations also can be simplified by the use of tables or graphs. Hardness conversions and temperature conversions are examples. Conversion can be accomplished without calculations when the information is presented in a graph or a table. Just look up 70 °F in a table in
+one column, and you will find 21 °C as the metric conversion. Another example is the tax computation table, which makes calculations easier when
+determining taxes for the government [bless their hearts].
+Spreadsheet software on computers makes it very easy for authors to enhance documents with graphs and tables. Mathematical computations are
+also simplified by computer spreadsheets. [We used to have to manipulate
+some very complicated formulas to calculate volume losses on balls used
+in wear tests. The ball would have a flat worn on it. We would measure the
+scar diameter and then use the formulas for a sector of a sphere to calculate volume lost. We now have a computer-generated table that converts
+scar diameter to volume—no more calculations and potential mistakes from
+a misplaced decimal point.] In a similar way, tables can be used to include
+a very large amount of information, numerical or verbal, in a technical document. 
+Concision. “A picture is worth a thousand words” is an old and worn
+cliche, but it is still true. Illustrations help make a document more concise.
+This is always desirable. The following description has 150 words, and you
+probably still cannot visualize what the house looks like.
+The house is 36 feet wide and 62 feet long at the base. It has two garage doors,
+an entry door, and a barn door on the second floor facing the street. The second
+floor is smaller than the first floor with dimensions of 36 feet by 34 feet over the
+main part of the house, and there is a 26 foot by 26 foot second story over the two
+car garage. There is a 14-foot square tower in the center of the house with an attached deck. The tower has a peaked roof, and the remainder of the house has
+gabled roofs—one aligned north-south and one east-west. The house is gray with
+white trim. The roof is black, and the siding is cedar shingles.
+In contrast, see Fig. 8.1. This photo replaces the 150 word paragraph, and
+it captures the content in a more memorable way. This is why almost all
+realtors use photos to describe properties.
+Photos of people are even a better example. Pictures of people are interesting and descriptive. Can you visualize the words it would require to describe what you look like to a pen-pal who has never seen you? In this instance, a photo certainly may replace a thousand words.
+Speeding Up Communication. Illustrations speed up the communication process by condensing information into a more useful form. In fact, a well-designed illustration can communicate content without any words. [I
+subscribe to a do-it-yourself magazine that runs a feature in every issue
+where one page of cartoon-type illustrations with no text shows the reader
+how to build a simple project. The cartoon characters show the steps and
+materials needed to execute the project.]
+An organization chart is a good example of speeding up communication
+with an illustration. You can convey how your department works very
+quickly by simply including an organizational chart in your document.
+There are numerous other examples, but illustrations can be very effective
+in making the communication process quicker and more effective for your
+readers.
+Easier Interpretation of Information. Graphs, charts, and tables are often indispensable when large amounts of information are presented. Welldesigned tables or graphs can communicate information on one page that
+may otherwise require ten pages of words and/or numbers. A well-designed
+illustration also gives a visual structure that allows scanning and comparison of numerical or verbal content.
+Tables are useful tools for communicating large amounts of repetitive
+numerical or verbal information, such as the examples in Tables 8.1 and
+8.2. They allow easy scanning of the contents for comparison or quick
+lookup. However, tables can be boring, as in the case of logarithm tables
+or the phone book. Sometimes graphs and charts, which can be formatted
+in various ways, are more effective.
+
+
+Unlike tables, graphs and charts provide visuals that enhance the interpretation of data. The reader must compare data in a table. Graphs and
+charts can show comparisons or trends (Fig. 8.2), which definitely helps
+the reader. They catch reader interest, and they can be very effective in persuading the reader to your point of view. Most readers would glance at Fig.
+
+
+8.2 and draw the conclusion that this organization has a severe safety problem. The transfer of this information is almost instantaneous—more effective than a word description or a table with numbers.
+
+
+
+
+8.2 How to Prepare Effective Illustrations
+The three basic categories of illustrations are:
+• Photos
+• Line art (graphs, charts, schematics)
+• Tables
+
+
+There are some general guidelines that can help make these types of illustrations more reader-friendly and effective. That is the purpose of this section—to present suggestions on how to prepare effective illustrations. A
+poor illustration can have the same negative effect on your readers as grammar or spelling errors. The objective is to produce illustrations that work
+for your reader.
+Photographs
+You only have two choices of media for capturing images as photographs:
+silver-halide film or digital files. Both can be either black-and-white or in
+color. The choice between digital image files and film often depends on the
+availability of equipment. Some people do not have both digital and film
+cameras. However, when one has the option, the choice between the two
+can become a question of speed and resolution. Speed depends on the specific type of equipment and/or film.
+The resolution of two-dimensional image recorders (that is, cameras) is
+defined in terms of dimensional resolution and contrast resolution. Dimensional resolution is expressed in terms of pixels, which is just a shortened term for “picture element.” Any two-dimensional image can be divided into any array of many small pixels. This pixel array defines the
+dimensional resolution and the size of the smallest feature that can be discerned. Ordinary televisions have a resolution of about 300,000 pixels,
+whereas digital high-definition televisions have a resolution of about 2 
+106 pixels. The dimensional resolution of a good digital camera (in 2000)may have a capability of 3 106 pixels in an array. Typical resolution with
+average 35 mm silver-halide film is about 20 106 pixels.
+Contrast resolution refers to the level of shades that can be recorded or
+displayed. For example, digital cameras in the 1980s had 62 (26) gray levels for each pixel. Currently, most commercial digital cameras offer at least
+256 (28) gray levels, although there are 12 bit cameras with 4,096 (212) gray
+levels and 16 bit cameras with 65,536 (216) gray levels (J.C. Grande, Principles of Image Analysis, Practical Guide to Image Analysis, ASM International, 2000). The contrast sensitivity of a recording device is important,
+because contrast is the underlying signal strength for observing images. If
+contrast sensitivity is low, then changes in gray scales may become less
+distinct, even with a high degree of dimensional resolution.
+If image resolution is a priority, a silver halide photo can be better, although digital cameras are becoming more and more capable. Digital images may also offer advantages in handling, reuse, and image analysis.
+However, when a digital image is incorporated into a printed document or
+viewed on a monitor, the output device determines the final resolution. This
+final resolution must be considered when choosing between digital and film
+recording of images.
+The resolution of printers and monitors is defined in units of dots per inch
+(dpi). The required dpi resolution of an output device (such as a printer or
+a monitor) depends on the required number of gray levels in a pixel. If an
+image is digitized into a pixel array, the output dpi can be virtually any
+number depending on the viewing device. Printers typically require a 4 
+4 dot array for each pixel when 16 shades of gray are needed. If correct reproduction of a 300 dpi image having 64 (8 8) gray levels is required,
+then a 600 dpi printer would be needed. A resolution of 600 dpi for line
+printers is suitable for most applications. A printer resolution of 1200 dpi
+is for very high-quality images.
+Electronic images can also be produced from the scanning of photographs
+that are developed from film. This allows electronic manipulation like a
+digital photo. However, the resolution of the scanned image becomes limited by the resolution of the scanner, not the silver halide film. Generally,
+scanning at 300 dpi is sufficient for most photographs. The human eye cannot discern differences when scan resolutions are higher than this. Higher
+scan resolutions may also result in extremely large electronic files. It is also
+advisable to only scan from a continuous-tone (glossy) print. This assures
+good reproduction with a scan at 300 dpi.
+It is poor practice to scan photographs from printed books. First, scanning from books may require a permission request for copyright clearance.
+Secondly, photographs in printed books are not like the continuous-tone
+(glossy) prints produced from film. Photographs in printed books are halftone images—that is, they are reproductions based on copy-dot patterns.
+These copy-dot patterns, which are like a screen covering the original image, degrade the image and can produce interference patterns (known technically as Moire patterns) after reproduction or scanning. Sophisticated scanning methods can apply reverse screens to eliminate the copy-dot patterns. However, this type of scanning is beyond the capability of most authors. Therefore, if you are scanning a photograph, it is advisable to scan
+from a continuous-tone (glossy) print.
+When you generate electronic files for images, it is also important to understand the main differences between some common formats of electronic
+images. Electronic formats for current computer applications are defined
+by various acronyms known as file extensions (such as .tif, .gif, .jpg, or
+.eps). File extensions for some common types of image formats include:
+• .tif for tagged images file format (TIFF)
+• .jpg for joint photographic experts group (JPEG)
+• .gif for graphics interchange format (GIF)
+• .eps for encapsulated postscript file
+• .doc for any document in Microsoft Word
+There are some very important differences in these formats. Images in the
+JPEG format are intended for use on the Internet, and the files are compressed to a resolution of 72 dpi for quicker Internet access and viewing on
+screen (as most computer monitors typically have resolutions of 72 dpi). Images embedded in a Microsoft Word document are also compressed to 72
+dpi. The resolution of 72 dpi may be suitable if you want to print just a few
+copies on your printer, but it is generally inadequate if you plan to use the
+files for print reproduction. If you plan to reproduce the photos (or submit
+them to a publisher for print or electronic publication), then the best format
+is a “.tif” file with a resolution of 300 dpi. This is the most adaptable format, and it ensures sufficient resolution for good reproduction. The other
+formats are for special applications (or one-time use in the case of .doc files).
+Finally, the last question is the use of color. Should any photos be in
+color? The answer to this question hinges on the type of document being
+written and the reproduction facilities available. In the year 2000, most technical journals (without advertising) in materials engineering only accept
+black and white images. Journals in other fields may be different. For published papers, the use of color can be determined by reviewing the author
+instructions for a journal. For internal reports, the choice of color depends
+on reproduction capabilities. Many organizations do not have color copiers,
+and the use of color illustrations often means that the message intended by
+the color is lost. In fact, color should not be used in illustrations just because it is available. It should have a purpose. A color photo of a storage
+silo usually offers no value. On the other extreme, a color photo of a hot
+rolling mill will show what is hot and what is not. 
+
+
+The final consideration in photographs is composition. The best photograph is one made by a professional photographer in a studio. Professional
+photographers arrange lighting to prevent unsightly shadows and reflections. Studios have backdrops to prevent messy backgrounds. If you are
+taking photos yourself, consider lighting and background, and do your best
+to make the object of your photo prominent. Do what you can to remove
+“non-pertinent” items from the background (Fig. 8.3).
+In summary, photos should be used when it is very difficult to describe
+something in words or schematics. They are often more costly to reproduce
+than tables or line art, but electronic photos are becoming more and more
+convenient for authors, publishers, and printers. When photos are necessary, decide on the needed resolution, and then take the photo with proper
+lighting and background. Make a point with the photo, and do not use color
+without a good reason.
+
+
+Line Art (Graphs, Charts, Schematics)
+Line art refers to illustrations that can be drawn with lines, text, and lines
+formed into letters, words, and sentences. In the past, artists with drawing
+instruments and a drawing table prepared line art. Today, computer software can do the job. The most popular types of line art are illustrated in
+Fig. 8.4. Like photos, line-art illustrations can be produced in print or electronic form. If you plan to reproduce illustrations from electronic files (or
+submit them to a publisher for print or electronic publication), then the best
+electronic format for line art is a “.tif” file with a resolution of 600 dpi.
+Scanning or saving line-art illustrations at 600 dpi gives a crisp image without excessively large files (unlike photos, which should be scanned or saved
+at 300 dpi).
+Schematics are simplified sketches of a process or object. The schematic
+in Fig. 8.5 illustrates how a particular test rig works. A block of test material rubs against a continuous web of film. It is not dimensionally accurate.
+It was made to present the concept of the device. It is easier to see what is
+happening in a schematic than if a photo was taken of the device. The extraneous items have been removed. This is how object/machine schematics should be made. They can be made with computer drawing programs,
+some word-processing software, or by hand.
+
+
+Figure 8.4 is an example of a concept diagram, where the types of line
+art are grouped in specific categories. There are many concept diagrams
+used in this book. They organize concepts into groups with boxes, circles,
+and so forth, and then show how the concepts interrelate. Concept diagrams
+can show where plans, processes, concepts, or documents are going. Done
+properly, they help the reader to follow your thought process.
+Charts. Line-art illustrations also include charts, which are visual presentations of numerical or verbal information. These are a type of informal
+line art that has become prevalent with computer spreadsheet software and
+tabular data. Charts differ from graphs in that they are less mathematical
+than graphs, and they may not be appropriate for showing trends. In simpler terms, charts are usually applied to business information. In contrast,
+graphs are used to present trends and scientific information. Their use, however, can overlap.
+Pie charts (Fig. 8.6) are a classic way to show the relative portions of a
+whole. They are favorites for showing the sources of revenue and expenditures for government organization, schools, and businesses. Their weakness is that they only work well if the pie is divided into a relatively small
+number of pieces and if the pieces are significantly different in size. A pie
+of five pieces—20, 16, 19, 14, and 18%—will challenge the reader to visually discriminate differences in size. The labels on the pieces may need
+to display the percentage figures.
+Organization charts (Fig. 8.7) are extremely helpful in technical communications for showing department personnel or functions. They are also extremely helpful to authors in developing document distribution lists.
+Blocks denote positions or functions, and lines between blocks show responsibilities. Most desktop software packages have the capability of generating these kinds of illustrations, and many company directories contain
+embedded organization charts for use in developing distribution lists.
+Timelines (Fig. 8.8) are helpful illustrations for documents relating to
+project management. They detail tasks, who is to do them, and by when.
+When properly executed, they contain a significant amount of information
+and can guide the execution of a significant project. Similar to applications
+for creating organization charts, computer software programs can facilitate
+preparation of project management tasks. Some of these programs allow
+enhancing the data with shading, cross-hatching, and other types of adornment. Many times these features make the illustration so busy it loses its
+readability.
+
+
+RULE
+Keep timelines simple. 
+
+
+Bar charts (Fig. 8.9) are well suited to illustrate relative properties of a
+number of items. They are interpreted easily by readers, but there are precautions to keep in mind in their use. Computer software offers many ways
+to make bars. You can have bars that are cumulative of two, three, or four
+quantities. The bars can be horizontal or vertical, shaded or not; there can
+be three or four bars for each item. Bar charts can look strange if there are
+either too few items (Fig. 8.10a) or too many items (Fig. 8.10b) on display.
+
+
+Do not use “monster” bars if you only have a few items to compare. Make
+the chart small. Do not put too many items on a single bar chart. Use several charts if necessary. Try to keep the background uncluttered with lines
+and chose shading and colors that do not overwhelm the message intended
+by the chart.
+Histograms (Fig. 8.11) are very useful forms of bar charts that show the
+distribution of a large amount of data. For example, they can be used to
+show which age groups vote in an election or the distribution of hole sizes
+in a thousand “identical” parts. They are great tools for interpreting data
+and determining if data are normally distributed.
+Clip art is available on most personal computers and is intended to add
+interest to a document. There are various opinions on the appropriateness
+of this computer product in technical writing, but it is recommended that
+you not use clip art in technical documents for decoration. The reason for
+this opinion is that it may impugn credibility. Clip art images are usually
+frivolous, whereas technical writing is purposeful—not entertaining.
+Clip art is more appropriate on newsletters and department notices but
+not in formal or informal technical reports. The one exception for a report
+may be a department or business logo, which can be tastefully included on
+the report cover sheet as clip art. This type of use is acceptable in technical documents that start with a standard format. Clip art is in the public domain. It can be used without approvals or attribution but is not permitted
+in papers for most technical journals. Restrict its use to printing for department parties, golf outings, and club activities.
+
+
+As an author of a technical document, you have the responsibility for selecting a graph type (if it is felt to be necessary and to the point). The simple x-y graph is the easiest to interpret. These types of graphs should be enclosed with tick marks at logical increments. The plotted points are denoted
+by a symbol such as a box or triangle, and you may or may not fit a line to
+the points—your choice. Some suggestions for readability and clarity are:
+• Do not plot too many variables on the same graph, where the plot lines
+obscure one another or are difficult compare (Fig. 8.13).
+• Do not use so many graphs that they distract from reading the document.
+• Do not clutter the plot area with horizontal or vertical lines associated
+with the graph increments.
+• Clearly label the vertical axis vertically and the horizontal axis horizontally (Fig. 8.14).
+• Avoid plotting complex functions that are difficult for ordinary readers to interpret (Fig. 8.15).
+• Do not use odd-scale increments (as many computers with auto-scaling
+often do).
+• Enclose the graph within a border.
+• Use error bars to denote statistics on plotted data (plot the mean with
+error bars of plus and minus two standard deviations).
+• Select scales such that the curve is centered in the graph.
+• Use mathematics (least squares, and so forth) to fit lines to the data.
+Three-dimensional graphs are fun to make, but they usually miss the mark
+in readability. Not many readers grasp your point. They should only be used
+for limited readers.
+Semilog graphs are useful when one of the plotted quantities varies over
+decades. Log-log graphs are somewhat like three-dimensional (3D) graphs
+in applicability. The average reader has difficulty with them. They tend to
+make a linear relationship out of just about any variable. Spider graphs also
+fit into the 3D/log-log category. They are hard to interpret.
+Videos. Computers have made it possible to insert animation into computer documents. [I have been working with finite element specialists on
+some metal forming problems. They have sent me reports where you click
+on an application icon to show a moving punch. The part is blanked and
+formed in the simulation sequence, and the resultant shape of the part is
+displayed. It is really quite impressive.] These types of visual aids produced
+by simulation are not trivial (or cheap) to generate. It is not necessary to
+use them unless the animation offers value. Sponsors of engineering projects only want to pay for activities that have the potential for either a technical or financial return. In some cases, video recordings are part of an experiment or test. In this case, treat the video like other data—put it in the
+report as an appendix.
+Drawings. Engineering drawings like the one in Fig. 8.16 are the last
+type of line art given in Fig. 8.4. Engineering drawings are often included in edited form in technical documents. Most engineering drawings contain
+extra “boilerplates” that need to be deleted for concision when drawings
+are part of a text document. Machines, assemblies, or test setups are usually drawn in schematic form (for example, Fig. 8.5), because a normal 
+assembly drawing may be too complex for average readers. Maps are  appropriate illustrations for surveying and site plan documents. People
+drawings may be appropriate in biology or medical documents. Scenes and
+buildings are typical illustrations in architectural documents.
+Summary of Illustration Preparation
+All types of illustrations can be useful tools in technical documents. Use
+the types that make your point and remember proper ways to use them, as
+suggested in this section. If you are using data from others, use an attribution in the caption in the same format as that used for text reference. Seek
+permission from the original publisher when a published illustration is being reproduced in another published work. Permission to reprint materials
+is requested in writing by a form that varies from publisher to publisher. If
+you are seeking permission to reprint published material, the publisher of
+your work can provide permission forms to submit to the original publisher
+of the materials.
+
+
+RULE
+Only use illustrations when they add value (understanding, clarity, and so forth).
+
+
+
+
+8.3 Captions for Illustrations
+As described in the previous section, the value and readability of technical documents can be enhanced by the use of properly prepared graphs,
+charts, photos, and tables. However, the benefits of an illustration can be
+negated by an inadequate caption. This is a common problem with illustrations. For example, symbols, measurement units, abbreviations, or legends are sometimes inadequately defined in an illustration. This nullifies
+its usefulness.
+Part of the problem with improper captioning of illustrations is that computer software may not allow proper positioning of a caption above or below an illustration. Everyone has a different style regarding figure captions
+and table titles. Sometimes captions are placed above a chart or graph, or
+they may be placed below the graph. Generally captions are placed below
+figures, while table titles are placed on the top. This is a matter of style and
+convenience; just be consistent within a given document or report format.
+The key issue is the contents of a figure caption or table title. The contents must explain what is shown in the figure, and the caption must give
+readers all pertinent facts to interpret it. Figure captions must cite the source
+of the data and give any attribution, if the figure is taken from the work of
+others. In the case of tables, background information and attribution are often cited as footnotes at the bottom of the table. This is one reason why
+table titles are typically placed on the top in large type, while footnotes are
+in small type at the bottom. This is the basic style for this book, at least.
+
+
+All figure captions and table titles should pass the person-on-the-street
+test. The meaning of the illustrations or table should be evident on reading
+its caption or title. It is important to use phrases for the beginning of any
+table title or figure caption. Do not start with a full sentence! The caption
+should be phrased like a title for a paper. Just state in a clear, concise phrase
+what the illustration shows. If any further explanations are needed, include
+this information as supporting sentences after the caption or as footnotes
+in a table. Use this book or a teaching textbook on any technical subject for
+other examples of how to write a proper caption. A proper caption should
+look like those in traditional textbooks.
+With most computer programs, table titles and footnotes are easily produced along with the body of a table. Computer software for graphs, charts,
+and drawings is another matter. If your computer software does not allow
+you to put a proper caption on a graph, then it must be composed separately
+and put in place. It is wise to include a list of figure captions at the end of
+a paper or report. This helps you keep your figures and photos organized.
+RULE
+Every figure caption and table title leads with a 
+clear and concise phrase of what is shown.
+8.4 Referring to Illustrations
+All numbered illustrations must be referred to in the text body, and the
+following are basic recommendations:
+• Use the term “figure” to refer to any graphic, photo, or piece of artwork.
+• Use the term “table” to refer to any type of tabular format that can be
+typeset or presented with spreadsheet or tabular programs.
+• Number the figures and tables in sequence with their mentioning in text.
+• Put the figure or table number preceding the caption or title (Figure 1,
+2, 3, and Table 1, 2, 3, etc.).
+• Include attribution if the illustration belongs to another.
+Placement of Illustrations. There are two options on where you want
+to place illustrations within a document. In some organizations, it is acceptable to put illustrations at the end of reports. In fact, it is usually done
+this way on informal reports. Papers submitted to archival journals also require illustrations placed at the end of the text. Figures may have no captions but only penciled identifications such as “Fig. 7.” The figures are preceded by a typed list of figure captions and table titles. Most book
+publishers also want illustrations submitted as separate addenda that immediately follow a list of captions. The reason for this is that illustrations
+usually require distinct processing that is different from the text body. 
+
+
+Imbedding figures within the text of some word processing programs may
+also reduce resolution, as previously described in the section on photographs.
+Nonetheless, embedded illustrations look more professional, and these
+can be provided if your computer skills and equipment allow cutting and
+pasting, scanning, and file transfers. Each illustration should be placed at
+the first appropriate break after its first reference in text. If a formal report
+is intended only for your organization, the illustrations can be embedded
+or placed at the end of the report. However, embedded graphic or art files
+may not reproduce with the same resolution as original files. In either case,
+complete captions are always required and placed under the figure and/or
+in a caption list.
+Summary
+Graphs, tables, and photographs add credibility, clarification, concision,
+and interest to a report. If you make the statement “accident rate has risen
+dramatically in the last quarter,” most readers expect a graph to follow with
+data that illustrate how the number of accidents varied over the last year or
+two. Good graphs include error bars on data points reflecting the application of statistics to the test results. The use of illustrations in technical reports is strongly encouraged, and the following guidelines summarize some
+preferred practices for their effective use:
+• Keep graphs simple; 3D graphs are discouraged.
+• Avoid plotting complex mathematical functions as a scale.
+• Avoid acronyms in captions, titles, and axis labels.
+• The caption should describe what the graph shows and cite sources of
+data.
+• Show all data points on graphs and show any curve fitting line and/or
+error bars.
+• When using multiple graphs to compare items, use the same vertical
+and horizontal range. Beware of self-scaling computer programs.
+• Wherever possible, start the scales for numerical data at zero.
+• Use a key to identify multiple data sets.
+• Graphs and photos should have a surrounding border, only if they are
+embedded in the text body. Borders are not needed if illustrations are
+placed on separate pages at the end of the article.
+• Tick marks on graphs should have whole number increments (not 221
+⁄2,
+241
+⁄2, 261
+⁄2, etc.).
+• Make it clear in the text why you are showing an illustration.
+• Consider the readership in designing illustrations.
+• Be aware that the preparation of photos and artwork may add cost but
+that the handling and duplication costs are reduced when electronic files
+with sufficient resolution are used. 
+• When scanning photographs, scan from continuous-tone prints and scan
+to a resolution of 300 dpi. Do not scan photographs from printed books.
+• When scanning line art, scan from good prints, and scan to a resolution
+of 600 dpi.
+• The preferred format of electronic art for reproduction is a TIFF (.tif) file.
+• Embedding art into a Microsoft Word document causes compression
+to a resolution of 72 dpi. This is generally unsuitable for good-quality
+reproduction, but may be suitable for internal reports.
+• Horizontal and vertical axes should be identified by parallel lettering
+followed by the units.
+• Attribute the source if data or illustrations are not yours.
+• Use color judiciously. Avoid the use of color if color reproduction is
+not available.
+• Graph titles generated from art software usually do not constitute an
+adequate caption.
+• Use decimals in numeric tables and line up the decimal points.
+• Tables with more than twelve rows should be put in an appendix.
+• Label each row and column in a table.
+• Avoid putting font sizes smaller than 10 points in tables (no “funny”
+fonts).
+• Use as few lines as possible in tables (horizontal and vertical).
+• Put lengthy derivations and calculations in an appendix.
+• Do not mix lettering styles in an axis.
+• Do not interrupt text with large numbers of illustrations; put them in an
+appendix.
+• Surround illustrations with white space.
+
+
+Important Terms
+• Graph • Appendix
+• Timeline • Bar graph
+• Pie chart • Organization chart
+• Caption • Table
+• Line art • Spider graph
+• 3D graph • Histogram
+• Axis label • Credibility
+• Digital photo • Log graph
+• Line graph • Resolution
+• Schematic • dpi
+For Practice
+1. Present data from an experiment in which you measured the density
+of a plastic foam at 50° increments from room temperature to 325 °F.
+Density values were 1.2, 1.4, 1.7, 1.7, and 1.7 g/cc.
+2. Make a word table showing what you ate for a week.
+3. Draw a schematic of a paper cutter.
+4. You measured the morning temperature outside your house/apartment
+every day for two weeks. Plot the data and write an appropriate caption.
+5. How do you put a digital photograph into a report?
+6. What is a continuous-tone print?
+7. What is a half-tone print?
+8. Critique a graph taken from a published journal or newspaper. (What
+is done right or wrong?)
+9. What is wrong with using a spreadsheet full of numbers as an illustration?
+10. State five requirements of a good graph.
+11. Describe the proper way of labeling the axis on a graph of temperature versus time of day.
+12. Draw the organization chart for the organization where you are currently employed or at your last place of employment.
+
+
+To Dig Deeper
+• L.V. Anderson, Technical Writing—A Reader-Centered Approach, 3rd
+ed., Harcourt Co., 1995
+• M. Markel, Writing in the Technical Fields, Institute of Electrical and
+Electronic Engineers, Inc., 1994
+• S.E. Pauley, Technical Report Writing Today, Houghton Mifflin Co.,
+1979
+• M. Rose, Technical Communication, Prentice Hall, 1997
+• R.E. Wileman, Visual Communicating, Education Technology Publications, Englewood Cliffs, NJ, 1993
